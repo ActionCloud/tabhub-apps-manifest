@@ -1,0 +1,18 @@
+{
+  "name": "TabHub Apps",
+  "version": "1.0",
+  "repo": "https://github.com/tabhub/tabhub-apps",
+  "type": "resource",
+  "items": [
+    {
+      "name": "Sort Forks Action Viewer",
+      "type": "tabhub-app",
+      "url": "https://free.actioncloud.io/apps/sort-forks/?owner=actioncloud&repo=sort-forks-action"
+    },
+    {
+      "name": "GitHub Issue Tracker",
+      "type": "tabhub-app",
+      "url": "https://free.actioncloud.io/apps/github-issue-tracker/?owner=actioncloud&repo=issue-tracker-action"
+    }
+  ]
+}
